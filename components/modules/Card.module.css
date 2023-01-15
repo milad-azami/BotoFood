@@ -1,0 +1,63 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  box-shadow: rgba(92, 245, 115, 0.123) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  margin-bottom: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.container img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.details {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  color: grey;
+  font-size: 0.85rem;
+  margin: 22px 0;
+}
+
+.details h4 {
+  color: #53c60b;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.price {
+  display: flex;
+  justify-content: left !important;
+  align-items: center;
+}
+
+.container a {
+  background-color: #53c60b;
+  color: white;
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  padding: 5px 0;
+  border-radius: 5px;
+}
+
+.discount {
+  color: #ed4133;
+}
+
+.badge {
+  background-color: #ed4133;
+  color: white;
+  padding: 4px;
+  border-radius: 5px;
+  border: 3px solid white;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}

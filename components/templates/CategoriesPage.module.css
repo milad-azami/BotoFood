@@ -1,0 +1,68 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.container h2 {
+  border-bottom: 5px solid #53c60b;
+  width: fit-content;
+  margin-bottom: 50px;
+  font-size: 1.9rem;
+}
+
+.select select {
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  color: #48ac0a;
+  box-shadow: rgba(92, 245, 115, 0.123) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.select button {
+  border: none;
+  background-color: #53c60b;
+  color: white;
+  height: 35px;
+  padding: 0 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.cards img {
+  margin: auto;
+}
+@media (max-width: 900px) {
+  .container {
+    padding: 20px;
+  }
+  .cards {
+    justify-content: space-around;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+  .select {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .select select {
+    width: 100%;
+    margin: 0 0 20px;
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Beef Wellington",
+      "price": 13,
+      "discount": 10,
+      "introduction": "A dish that's fallen out of favour and then become popular again more times than we can count, beef Wellington's origins are as unclear as its connection to Arthur Wellesley, 1st Duke of Wellington. Traditionally, it's a beef fillet steak, coated in pâté and mushroom duxelles (an extremely finely chopped mixture of mushrooms, shallots and herbs), wrapped in puff pastry, then baked. Its modern-day popularity is largely thanks to Gordon Ramsay who's made it one of his signature dishes.",
+      "details": [
+        { "Cuisine": "British" },
+        { "Recipe Type": "Beef" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "50 mins" },
+        { "Cooking Time": "45 mins" },
+        { "Serves": "8" }
+      ],
+      "ingredients": [
+        "1.5 kg beef fillet, trimmed and tied",
+        "2 tbsp sunflower oil",
+        "45 g butter",
+        "1 small onion, chopped",
+        "250 g flat mushrooms, finely chopped",
+        "175 g smooth liver pâté",
+        "400 g ready-made puff pastry",
+        "1 egg, beaten",
+        "1 pinch salt and black pepper"
+      ],
+      "recipe": [
+        "Season the beef with black pepper. Heat the oil in a large frying pan, add the beef, and cook over a high heat until browned all over.",
+        "Put the beef fillet in a roasting tin and cook in a preheated oven at 220°C/425°F/gas mark 7 for 25 minutes for rare beef, 35 minutes for medium, or 40 minutes for well-done. Leave to cool completely.",
+        "Meanwhile, melt the butter in the frying pan, add the onion and mushrooms, and cook, stirring, for 3 minutes or until softened. Increase the heat to high, and cook until the excess moisture has evaporated. Turn into a bowl and leave to cool completely.",
+        "Add the liver pâté to the mushroom and onion mixture, season with salt and pepper, and stir well to combine."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Peking duck",
+      "price": 8,
+      "discount": 0,
+      "introduction": "A dish cooked and eaten in Beijing since the Imperial era, today Peking duck is a Chinese restaurant favourite across the world. There are countless methods of preparing and cooking the duck, but originally it was roasted in a closed oven until the kitchens of the Qing Dynasty developed the open-oven style to cook several ducks at the same time. The duck is then served with steamed Chinese pancakes, cucumber, spring onion and sweet bean sauce.",
+      "details": [
+        { "Cuisine": "Chinese" },
+        { "Recipe Type": "Duck" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "60 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "2 duck legs, around 450g/6oz (we like field&flower)",
+        "1 tsp Chinese five spice",
+        "1 tsp sea salt",
+        "1 tsp garlic granules"
+      ],
+      "recipe": [
+        "Preheat your oven to 180°C/356°F/gas mark 4 and remove the duck legs from the fridge about 20 mins before you want to cook them.",
+        "Prick the skin of the duck legs all over with a fork or skewer.",
+        "In a bowl, mix together your five spice, garlic and salt, then rub over the duck legs.",
+        "Place the duck legs in an ovenproof dish and cook for about 60 mins. Leave them in a little longer if they haven’t crisped up enough.",
+        "While the duck is cooking, prepare your cucumber and spring onions.",
+        "Once the duck is cooked, leave it to rest for about 10 mins then shred the meat using two forks or your fingers.",
+        "Serve the shredded duck with the hoisin sauce, pancakes, cucumber and spring onions on the side."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shakshuka",
+      "price": 9,
+      "discount": 0,
+      "introduction": "Claimed as one of their own throughout North Africa and the Middle East, untangling the web of where shakshuka is from is simply impossible. All we know is that it's an incredibly tasty and filling dish that's become a popular breakfast and brunch meal throughout the world. Literally translating as a mixture, it's usually cooked by reducing down tomatoes, onions and a range of spices before the eggs are poached on top.",
+      "details": [
+        { "Cuisine": "Middle Eastern" },
+        { "Recipe Type": "Eggs" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "5 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "0.5 tsp salt",
+        "0.5 tsp black pepper",
+        "0.5 tsp cumin (optional)",
+        "6 large eggs",
+        "100 g feta cheese, roughly chopped",
+        "8 large tomatoes on the vine, chopped",
+        "125 ml tomato juice",
+        "2 large aubergines, sliced into rounds",
+        "0.5 red onion",
+        "1 garlic clove, finely chopped",
+        "3 tbsp olive oil, for frying"
+      ],
+      "recipe": [
+        "Preheat the oven to 220°C/425°F/gas mark 7.",
+        "Heat 1 tablespoon of oil in a large frying pan. Season the aubergine slices and fry them in batches for 3–4 minutes on each side, until golden and tender, adding more oil as necessary. Transfer the slices to a plate as they are cooked.",
+        "Heat 2 tablespoons of oil in a medium frying pan and sauté the onion gently over a low to medium heat for about 8 minutes, stirring every now and then, until softened. Stir in the garlic and cook for a further minute.",
+        "Tip the tomatoes into the pan along with any juice and stir into the onion. Cook for 8 minutes until the tomatoes have broken down and softened – they should be a pulp.",
+        "Pour in the tomato juice and cook, again over a low heat, for 5 minutes. The sauce will be quite thick by this stage.",
+        "Season with salt, black pepper and the cumin, if using.",
+        "Spread a layer of aubergine slices over a large, ovenproof dish, then spoon over half the tomato sauce. Repeat to make two layers.",
+        "Make a hole in the sauce with the back of a large spoon and crack an egg into it. Do the same all round the dish until you’ve positioned all the eggs. Scatter over the feta.",
+        "Bake in the oven for 5 minutes. Pick the leaves off the parsley and mint sprigs, and chop roughly. When the shakshuka is ready, scatter over the herbs and serve with the warm pitta bread."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Laksa",
+      "price": 5,
+      "discount": 0,
+      "introduction": "A spicy, sweet, sour and fragrant soup from Southeast Asia, laksa is mostly associated with Malaysia. The origins are murky with several theories in different countries and a wide range of laksa exist, from regional varieties to differences in preparation. Typically, either a rich and spicy coconut milk broth or a sour asam broth made with tamarind, the soup is made with thick wheat noodles or rice vermicelli and served with chicken, prawn or fish.",
+      "details": [
+        { "Cuisine": "Malaysian" },
+        { "Recipe Type": "Soup" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 red chilli, deseeded and finely sliced",
+        "2.5 tbsp Thai red curry paste",
+        "600 ml hot vegetable stock",
+        "1 x 400g/14oz can of coconut milk",
+        "2 tsp fish sauce",
+        "100 g rice noodles",
+        "1 lime, juice only plus wedges",
+        "150 g raw king prawns, peeled",
+        "1 tbsp roughly chopped coriander (cilantro), plus leaves to garnish",
+        "1 pinch each of sea salt and freshly ground black pepper"
+      ],
+      "recipe": [
+        "Place a saucepan over a medium heat and add the olive oil.",
+        "Stir in the chilli and cook for a minute, then add the Thai red curry paste and cook for a further minute.",
+        "Whisk in the hot vegetable stock and coconut milk and bring to the boil. Stir in the fish sauce, toss in the noodles and cook for 2 minutes.",
+        "Squeeze in the lime juice, add the raw prawns and cook for about 4 minutes.",
+        "Stir in the chopped coriander and season with salt and pepper.",
+        "Serve in bowls with the coriander leaves and the lime wedges on top for squeezing over."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Clam chowder",
+      "price": 10,
+      "discount": 0,
+      "introduction": "Creamy clam chowder is Massachusetts' finest dish that's prevalent throughout New England. Made with potatoes, crushed oyster crackers and chunks of local clam, it’s a flavourful and hearty dish to have all year long. The most famous place to eat it, Legal Sea Foods in Boston, began life as a market frequented by Julia Child and has been cooking up perfect chowder for decades. ",
+      "details": [
+        { "Cuisine": "American" },
+        { "Recipe Type": "Soup" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "30 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "4 slices thick-cut bacon, cut into lardons",
+        "1 large onion, diced",
+        "2 tbsp plain flour",
+        "4 medium waxy potatoes, diced",
+        "720 ml fish or chicken stock",
+        "355 ml whipping cream",
+        "24 clams, shucked, with their liquor, cut into pieces if large",
+        "1 tbsp fresh parsley or chives, minced"
+      ],
+      "recipe": [
+        "In a heavy-bottomed pot, cook the bacon over medium high heat, stirring frequently, until browned and crisp, about 5 minutes. Drain the bacon on paper towels.",
+        "Add the onion to the bacon drippings and cook, stirring, until the onion has softened, about 5 minutes.",
+        "Stir in the flour. Add the potatoes and stock.",
+        "Cook, stirring occasionally, until the potatoes are tender, about 15 minutes.",
+        "Add the cream and bring to a simmer.",
+        "Add the clams and reserved bacon and simmer for another few minutes. Season to taste with salt and pepper.",
+        "Serve garnished with parsley or chives."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ramen",
+      "price": 12,
+      "discount": 0,
+      "introduction": "A Japanese noodle soup, ramen has grown in popularity outside of Japan in the last decade and it's easy to see why. In its simple form, it's a rich meat (or occasionally fish) broth, flavoured with soy or miso and served with toppings such as mushrooms, seaweed, sesame seeds, spring onions and soft-boiled egg. As with most dishes, there are regional varieties too, including the most popular tonkotsu (pork bone broth) ramen of Kyushu and the miso ramen of Hokkaido.",
+      "details": [
+        { "Cuisine": "Japanese" },
+        { "Recipe Type": "Ramen" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "1" }
+      ],
+      "ingredients": [
+        "150 g packet miso ramen noodles (or plain noodles)",
+        "1 handful frozen peas, or any vegetables you have lurking in the fridge (carrots, sugarsnap peas, corn, bean sprouts, finely shredded cabbage, courgette etc)",
+        "1 egg",
+        "1 tbsp red or brown miso paste (if using plain noodles)",
+        "1 fresh green chilli, sliced",
+        "1 spring onion, sliced and placed in a bowl of iced water for a few minutes",
+        "1 pinch black or white sesame seeds",
+        "1 tsp toasted sesame oil, to taste",
+        "1 handful Japanese dried nori seaweed, to serve (optional)"
+      ],
+      "recipe": [
+        "Cook the ramen noodles according to the packet instructions, adding the frozen peas (or whichever vegetables you opt for) to the pan so they cook at the same time.",
+        "Cook the egg by poaching it in the broth (whisk it in a bowl first then pour it into the broth or crack it in), boiling it whole in a separate pan, or giving it a quick fry.",
+        "Add the miso paste to the noodle cooking liquid (if cooking plain noodles) and stir through.",
+        "Remove from the heat and garnish with the chilli, drained spring onion, sesame seeds, sesame oil and any other toppings you like.",
+        "The egg goes on last if you cooked it separately, along with the seaweed (if using)."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cacio e pepe",
+      "price": 20,
+      "discount": 0,
+      "introduction": "There are countless divine Italian pasta recipes, but this one is genius in its simplicity. Translating as cheese and pepper, the dish, as its name suggests, uses a handful of basic ingredients: black pepper, cheese, pasta and butter. You'll find versions made with either spaghetti, linguine or pici, which is a short, thick worm-like pasta, and there's also debate about what cheese to use – it's usually either Parmesan or pecorino romano.",
+      "details": [
+        { "Cuisine": "Italian" },
+        { "Recipe Type": "Pasta" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "200 g spaghetti or linguine",
+        "1 pinch sea salt, for the cooking water",
+        "1 large knob of butter",
+        "1 tsp freshly ground black pepper, plus extra to serve",
+        "60 g Parmesan or pecorino or a mixture (or a vegetarian alternative), finely grated, plus extra to serve"
+      ],
+      "recipe": [
+        "Cook the pasta in a saucepan of boiling, salted water for 6–8 minutes, or until it is not quite tender and still has some bite remaining. Drain and reserve the pasta water.",
+        "Quickly return the pan to a medium-high heat. Add the butter and, when melted, add the pepper and heat for about 1 minute until fragrant.",
+        "Add a ladleful of pasta cooking water (about 100 ml/3.5 fl oz/scant 0.5 cup) to the pan and bring to the boil.",
+        "Reduce the heat, return the pasta to the pan with three-quarters of the cheese, then stir and shake the pan to melt the cheese and create a sauce that clings to the pasta.",
+        "Add the remaining cheese and toss the pasta until it melts and you have a silky smooth sauce, adding a splash more of the cooking water if the sauce seems dry.",
+        "Divide between warmed dishes and serve immediately with extra cheese and pepper."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Boeuf bourguignon",
+      "price": 34,
+      "discount": 0,
+      "introduction": "This classic French dish might look rustic, but plenty of work and skill goes into making it just right. Consisting of beef slowly braised in red wine, plus beef stock, carrots, onions and sometimes mushrooms, this super-rich dish is packed with layers of flavour. It's also become one of the most famous recipes from Julia Child's groundbreaking cookbook The French Chef.",
+      "details": [
+        { "Cuisine": "French" },
+        { "Recipe Type": "Main" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "200 mins" },
+        { "Cooking Time": "135 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "800 g Beef brisket, cut into large cubes",
+        "1 l Full-bodied red wine",
+        "2 Thyme sprigs",
+        "4 Garlic cloves, crushed with the flat edge of a knife or your hand",
+        "3 tbsp Cognac",
+        "100 ml Sunflower oil",
+        "2 tbsp Plain flour",
+        "600 ml Veal stock or chicken stock",
+        "2 Carrots, peeled, halved lengthways and cut into chunks",
+        "12 Silverskin onions",
+        "100 g Small button mushrooms",
+        "100 g Pancetta, diced",
+        "1 handful Flat-leaf parsley, roughly chopped",
+        "1 pinch Salt",
+        "1 pinch Freshly ground black pepper",
+        "1 Bouquet garni (made with 1 parsley sprig, 1 thyme sprig and 1 small bay leaf)"
+      ],
+      "recipe": [
+        "In a deep dish, mix together the beef, wine, thyme, garlic and Cognac. Cover with cling film and leave to marinate in the fridge for at least 3 hours.",
+        "Drain the meat into a bowl, using a colander, and reserve the marinade.",
+        "Heat 4 tablespoons of the oil in a large saucepan or cast iron pot over a medium hear. Add the meat and cook for 20 minutes until brown, season with salt and pepper, then sprinkle with the flour and cook, stirring, for a further 2-3 minutes.",
+        "Add the stock and reserved marinade and bring to the boil. Skim the foam off the surface and add the bouquet garni, then reduce the heat to low and simmer, partially covered, for 1 hour 45 minutes, stirring occasionally, until the meat is tender. By that time you should have a rich, silky sauce.",
+        "About 50 minutes before the end of the cooking time, heat another medium saucepan with 1 tablespoon of the oil over a medium-low heat. Add the carrots and onions and cook for 10 minutes or until soft and pale gold in colour, then add to the meat saucepan.",
+        "When the beef is almost ready, heat the remaining oil in a frying pan over a medium heat. Add the mushrooms and pancetta and fry 8-10 minutes, stirring occasionally, until golden brown, then add them to the beef. Check the seasoning adjusting the salt and pepper, if necessary, throw in the parsley and stir gently without breaking the delicate pieces of beef.",
+        "Serve with hot creamed mash potatoes for a perfect winter warmer."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pho",
+      "price": 9,
+      "discount": 0,
+      "introduction": "This warm, comforting noodle dish has taken the world by storm and rightly so. Its apparent simplicity hides complex flavours that are at once unctuous and refreshing. Born in northern Vietnam in the late 19th century, pho’s development was influenced by Chinese and French cooking, mirroring the history of the country. Today, it is a uniquely Vietnamese offering that you won’t have to go far to find, wherever you are in the world.",
+      "details": [
+        { "Cuisine": "Vietnamese" },
+        { "Recipe Type": "Slow cooker" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "300 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "1 kg short ribs",
+        "50 g shiitake mushrooms, sliced",
+        "500 ml beef stock",
+        "500 ml water",
+        "0.5 onion",
+        "1 garlic clove",
+        "1 star anise",
+        "1 cinnamon stick",
+        "1 tsp fennel seeds",
+        "4 black pepper seeds",
+        "20 g ginger, thickly sliced",
+        "1 lemongrass stick, bashed",
+        "2 red chillies",
+        "0.5 bunch coriander",
+        "3 mint stalks",
+        "2 spring onions",
+        "20 ml fish sauce",
+        "250 g flat pho noodles, cooked per packet instructions",
+        "2 limes"
+      ],
+      "recipe": [
+        "Heat a dry frying pan and toast the spices quickly till they become aromatic. Remove and keep on the side.",
+        "Slice on onion in half and char it flat side down in a hot, dry pan until black. Remove, and add the ginger until coloured on both sides.",
+        "Debone the short ribs, browning the bone in a dry pan on every side.",
+        "Add the bone to the crockpot with stock, water, onion, the garlic clove, spices, ginger, coriander stalks and shiitake mushrooms.",
+        "Slice the short rib lengthways in thin slices and add to the pot.",
+        "For best results, set your Crock-Pot or slow cooker to low (for 4–6 hours' cooking). You could also use high (for 2–3 hours' cooking).",
+        "Cook until the beef gets soft to the bite but doesn’t break up.",
+        "Add fish sauce and salt to taste.",
+        "Remove the bones, spices, ginger, garlic and lemongrass, then portion into bowls with the prepared noodles.",
+        "Slice the spring onion and chilli, add to the pho and top with lightly torn coriander leaves and mint. Serve with lime wedges."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Southern fried chicken",
+      "price": 19,
+      "discount": 10,
+      "introduction": "You might think that there couldn't be anything easier than deep-frying a piece of chicken – but you'd be wrong to assume it's as simple as that. Making the perfect batter, adding just the right amount of seasoning and choosing the best way to fry takes practise. A dish deeply rooted in the American South, a perfect basket of fried chicken is one for the bucket list.",
+      "details": [
+        { "Cuisine": "Italian" },
+        { "Recipe Type": "Pasta" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "200 g spaghetti or linguine",
+        "1 pinch sea salt, for the cooking water",
+        "1 large knob of butter",
+        "1 tsp freshly ground black pepper, plus extra to serve",
+        "60 g Parmesan or pecorino or a mixture (or a vegetarian alternative), finely grated, plus extra to serve"
+      ],
+      "recipe": [
+        "Cook the pasta in a saucepan of boiling, salted water for 6–8 minutes, or until it is not quite tender and still has some bite remaining. Drain and reserve the pasta water.",
+        "Quickly return the pan to a medium-high heat. Add the butter and, when melted, add the pepper and heat for about 1 minute until fragrant.",
+        "Add a ladleful of pasta cooking water (about 100 ml/3.5 fl oz/scant 0.5 cup) to the pan and bring to the boil.",
+        "Reduce the heat, return the pasta to the pan with three-quarters of the cheese, then stir and shake the pan to melt the cheese and create a sauce that clings to the pasta.",
+        "Add the remaining cheese and toss the pasta until it melts and you have a silky smooth sauce, adding a splash more of the cooking water if the sauce seems dry.",
+        "Divide between warmed dishes and serve immediately with extra cheese and pepper."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Poutine",
+      "price": 9,
+      "discount": 0,
+      "introduction": "It might not be a looker, but this Québec dish is certainly delicious, and is now not only popular across Canada and the northeast of the US but further afield too. Comprising fluffy-on-the-inside, crunchy-on-the-outside French fries, and thick, rich and meaty gravy, poutine is elevated to a culinary event by the addition of cheese curds. These small, solidified white cheese bites retain some of their shape under the heat of the gravy.",
+      "details": [
+        { "Cuisine": "Canadian" },
+        { "Recipe Type": "Potato" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "25 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "1 vegetable oil spray",
+        "500 g large white potatoes (such as Maris Piper)",
+        "200 g cheese curds, or buffalo mozzarella",
+        "400 ml gravy, beef or onion, either shop-bought or homemade"
+      ],
+      "recipe": [
+        "Bring a large pot of salted water to the boil and pre-heat the oven to 220°C/430°F/gas mark 7.",
+        "Keeping the skin on, slice the potatoes lengthways into 1cm (0.5in) slices then cut into sticks (chips).",
+        "Cook the chips in the boiling water for 5 minutes then drain. ",
+        "Line a large baking tray with parchment paper and spray with a little light oil spray.",
+        "Place the chips onto the baking tray in a single layer, season and spray all over with the light oil. Cook in the pre-heated oven for 25 minutes giving them a shake halfway through or until golden and crispy. ",
+        "Make sure the gravy is at boiling temperature or piping hot.",
+        "Transfer the chips to a serving dish, break the cheese curds (or mozzarella) into small chunks, place them on the chips and pour over the hot gravy.       "
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Biryani",
+      "price": 17,
+      "discount": 0,
+      "introduction": "A celebration of spices and rice, biryani's origins lie with the Muslims of the Indian subcontinent. Today, endless varieties of biryani exist, depending on the region where it's cooked and the cook who makes it, but the basics – rice and an assortment of spices – remain untouchable. You can make yours with meat or skip it for a vegan or vegetarian treat. ",
+      "details": [
+        { "Cuisine": "Indian" },
+        { "Recipe Type": "Rice" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "35 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "400 g basmati rice",
+        "2 tbsp butter",
+        "1 tbsp light-flavoured oil",
+        "1 onion, thinly sliced",
+        "1 green finger chilli, chopped",
+        "6 cardamom pods, bashed",
+        "5 cm (2in) piece of cinnamon stick, broken in half",
+        "5 cm (2in) piece of fresh root ginger, grated",
+        "4 garlic cloves, grated",
+        "2 tsp garam masala",
+        "3 tsp ground cumin",
+        "0.5 tsp turmeric",
+        "1 tsp chilli powder",
+        "6 skinless, boneless chicken thighs, cut into bite-size pieces",
+        "50 g crispy fried onions",
+        "750 –850 ml (25–28 floz/ 3–3½ cups) boiling water",
+        "1 handful coriander (cilantro), chopped",
+        "1 handful toasted flaked (slivered) almonds",
+        "1 pinch each of fine sea salt and freshly ground black pepper",
+        "4 dollops of natural yogurt, to serve (optional)"
+      ],
+      "recipe": [
+        "Soak the rice in a large bowl of warm water for 15 minutes, then drain and rinse under cold running water until the water runs clear. Put the kettle on to boil.",
+        "Meanwhile, heat the butter and oil in a deep frying pan (skillet) or a flameproof casserole dish (Dutch oven) set over a medium heat. Fry the onion, chilli, cardamom pods and cinnamon stick for 5 minutes, stirring frequently.",
+        "Meanwhile, in a large bowl, mix the grated ginger and garlic with the dried spices, ½ teaspoon salt and a generous grinding of black pepper. Add the chicken and massage the spice mix into the meat.",
+        "Add the chicken to the pan and fry for 5 minutes until the chicken has changed colour and the spices are fragrant.",
+        "Stir in half of the crispy fried onions and season really well.",
+        "Scatter the rice over the chicken in an even layer, then pour over the boiling water and add ½ teaspoon salt. The rice should be just submerged under the water. Agitate the rice with a spoon but don’t stir.",
+        "Bring to the boil and cook for 6 minutes. Cover with foil and a tight-fitting lid to seal in the steam, then turn off the heat and leave to stand, undisturbed, for 10 minutes.",
+        "Remove the lid and foil and sprinkle with the remaining fried onions, coriander leaves and flaked almonds. Serve immediately with yogurt on the side if you like."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Tacos",
+      "price": 7,
+      "discount": 0,
+      "introduction": "These soft corn tortillas full of delicious beef, pork and chicken have mysterious origins that are often traced back to Mexico's 18th-century silver mines. Contrary to American tacos, the Mexican version doesn't include garnishes like lettuce, tomato, cheese or even sour cream. In fact, Mexican tacos are usually topped with coriander, finely diced white onion and a type of salsa or, sometimes, guacamole.",
+      "details": [
+        { "Cuisine": "Mexican" },
+        { "Recipe Type": "Tacos" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1 banana shallot, finely sliced",
+        "1 celery stick, finely sliced",
+        "2 garlic cloves, finely sliced",
+        "0.5 tsp celery salt",
+        "50 ml vodka or white wine",
+        "0.5 tsp Tabasco sauce",
+        "1 tsp horseradish sauce",
+        "1 tsp Worcestershire sauce",
+        "150 ml tomato juice",
+        "500 g king prawns, peeled and deveined",
+        "1 tbsp parsley, finely chopped",
+        "1 pinch freshly ground black pepper",
+        "1 tbsp sunflower oil"
+      ],
+      "recipe": [
+        "Set a large frying pan over a high heat. Once the pan is hot, add the oil, shallot and celery. Fry for a minute until everything starts to sizzle, then reduce the heat to medium. Fry, stirring occasionally, for about 10 minutes, until the shallot is just softened. If the shallot starts to catch, reduce the heat further.",
+        "When the shallot is soft, increase the heat to high and add the garlic and celery salt. Fry for a minute then throw in the vodka or white wine and allow the alcohol to bubble and evaporate almost entirely.",
+        "Add the Tabasco, horseradish, Worcestershire sauce and tomato juice and bring to the boil, then throw in the prawns. Fry just until the prawns are cooked through, then remove from the heat and stir in the parsley and a good grinding of black pepper.",
+        "For the celeriac slaw, coarsely grate the celeriac into a mixing bowl. Add the lime juice, celery salt and coriander.",
+        "To serve, fill the tortillas with the slaw before layering with the prawns. Top with a squeeze of mayonnaise and serve with lime wedges and extra slaw."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Som tam",
+      "price": 27,
+      "discount": 0,
+      "introduction": "This spicy, crunchy salad is the taste of Southeast Asia on a plate, made with shredded unripe green papaya and other local fruit and vegetables tossed in a delicious sweet and sour dressing of palm sugar, chilli peppers and lime juice. Originating from Laos, it’s also eaten throughout Vietnam, Cambodia and Thailand. Making a traditional som tam means lots of shredding and pounding with a pestle and mortar, but modern, less messy and time-consuming takes on the traditional dish abound. ",
+      "details": [
+        { "Cuisine": "Thai" },
+        { "Recipe Type": "Main" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "2 large courgettes, trimmed",
+        "3 good-sized carrots, trimmed",
+        "1 large or 2 smaller mangoes (opt for firmer ones, so not too ripe)",
+        "1 garlic clove, chopped",
+        "1 red chilli, deseeded and sliced lengthways",
+        "0.5 tsp sea salt juice",
+        "2 limes, zested",
+        "1 tsp sugar or 2 teaspoons honey",
+        "1 handful large fresh coriander leaves-"
+      ],
+      "recipe": [
+        "Roughly chop the fish and place it in a food-processor with the curry paste. Pulse until you have a coarse paste - don't whip it up too finely.",
+        "If you don't have a food-processor, just lay the fish and curry paste on a large cutting board and chop with a big knife, pressing with the side of the knife to mash and mix the fish with the curry paste.",
+        "Fold in the breadcrumbs and shape into balls. Dust with a little flour to keep them from sticking. You should be able to get eight little fish cakes out of the mixture, giving you two for each person. Pop them into the fridge to firm up for 30 minutes.",
+        "Meanwhile, make the salad. Using a vegetable peeler, peel the courgettes along their length, then just keep going, making strips of the flesh until you reach the seed pod in the centre. Nibble the seed pod while you cook or thinly slice it and add it to the salad. Peel the carrot in the same way.",
+        "Peel one side of the mango using a vegetable peeler and then shave off long, thin slivers of the mango's flesh with the peeler, so it's similar in shape and texture to the courgettes and carrots. Continue around the whole of the mango until you've used most of it up. Save any remaining bits of mango for a fruit salad.",
+        "Mix the courgettes, carrot and mango together with the garlic, chilli, salt, lime juice and zest, and sugar or honey. Set aside while you fry the fishcakes.",
+        "Press each ball down into a little cake and fry in olive oil until golden on each side. Serve with the som tam salad and garnish with coriander leaves and crushed peanuts."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Falafel",
+      "price": 3,
+      "discount": 90,
+      "introduction": "This round, deep-fried patty of ground chickpeas, herbs, spices and onions makes for a tasty veggie treat. Falafel has a thousand-year history, probably hailing from Egypt, where it was eaten as a substitute for meat by Coptic Christians during Lent and was made with fava beans. The dish later migrated towards the Levant, where it took on its current chickpea form.",
+      "details": [
+        { "Cuisine": "Middle Eastern" },
+        { "Recipe Type": "Falafel pitta" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "20 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "4 garlic cloves, peeled",
+        "1 handful coriander leaves and stalks",
+        "1 handful parsley leaves",
+        "400 g chickpeas, soaked overnight in cold water and drained",
+        "4 tbsp gram flour",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "1 tsp Aleppo pepper flakes",
+        "0.5 tsp baking powder",
+        "0.2 tsp bicarbonate of soda",
+        "750 ml vegetable oil, for deep-frying",
+        "1 pinch sea salt",
+        "1 onion, roughly chopped"
+      ],
+      "recipe": [
+        "Blitz the onion and garlic in a food-processer until fine. Add the herbs and continue to blend until they are completely whizzed up. Add the chickpeas, gram flour, cumin, coriander, Aleppo pepper flakes, baking powder and bicarbonate of soda.",
+        "Season with a really good pinch of salt and blitz again for a few minutes to combine.",
+        "Scrape the sides down with a spatula and blend until the mixture combines into a paste. Roll into 30–32 small falafel the size of walnuts.",
+        "Heat the vegetable oil in a deep saucepan over a medium–high heat. You will need about 7–10cm (3 inches) oil, enough to completely cover your falafel.",
+        "Cook the falafel, a few at a time, for 1–2 minutes until golden. You have to watch the heat, adjusting it so that they don’t cook too fast and burn. Remove with a slotted spoon and drain on kitchen paper.",
+        "Serve in the pitta with lettuce, parsley, pickles, a sprinkle of sumac, a drizzle of tahini and chilli sauce to taste."
+      ]
+    }
+  ]
+}

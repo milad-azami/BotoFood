@@ -1,0 +1,155 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.container h2 {
+  border-bottom: 5px solid #53c60b;
+  width: fit-content;
+  margin-bottom: 50px;
+  font-size: 1.9rem;
+}
+
+.banner {
+  display: flex;
+}
+
+.banner img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.banner div {
+  margin-left: 30px;
+}
+
+.banner h3 {
+  font-size: 1.3rem;
+  color: #53c60b;
+}
+
+.banner span {
+  display: flex;
+  align-items: center;
+}
+
+.location {
+  color: grey;
+  margin: 20px 0 40px;
+}
+
+.discount {
+  background-color: #ed4133;
+  color: white;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.introduction {
+  margin: 60px 0;
+  line-height: 25px;
+  text-align: justify;
+}
+
+.details {
+  margin-bottom: 60px;
+}
+
+.details h4 {
+  font-size: 1.5rem;
+  color: #53c60b;
+  margin: 24px 0;
+}
+
+.details ul {
+  list-style: none;
+}
+
+.details li {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.details li::before {
+  content: "• ";
+  color: #53c60b;
+}
+
+.details p {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 10px;
+}
+
+.details span {
+  color: grey;
+}
+
+.recipe {
+  margin-bottom: 100px;
+}
+
+.recipe h4 {
+  font-size: 1.5rem;
+  color: #53c60b;
+  margin: 24px 0;
+}
+
+.recipe div {
+  display: flex;
+  align-items: center;
+  padding: 20px 10px;
+  text-align: justify;
+}
+
+.recipe span {
+  font-size: 2rem;
+  margin: 0 15px 0 5px;
+}
+
+.odd {
+  background-color: #e8ffdb;
+}
+
+.even {
+  background-color: #bcff93;
+}
+
+.container button {
+  width: 100%;
+  border: none;
+  background-color: #53c60b;
+  color: white;
+  padding: 15px;
+  font-size: 1.3rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 100px;
+}
+
+@media (max-width: 900px) {
+  .container {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+  .banner {
+    flex-direction: column;
+  }
+  .banner div {
+    margin: 0;
+  }
+  .banner img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}

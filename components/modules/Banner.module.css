@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+}
+.right img {
+  width: 450px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.left h2 {
+  border-bottom: 3px solid #53c60b;
+  width: fit-content;
+  margin: 20px 0;
+}
+
+.left p {
+  font-weight: 500;
+  margin: 16px 0;
+}
+
+.left span {
+  color: grey;
+  text-align: justify;
+}
+
+.left a {
+  background-color: #53c60b;
+  color: white;
+  padding: 10px 30px;
+  width: fit-content;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+@media (max-width: 900px) {
+  .right img {
+    width: 350px;
+  }
+  .left {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+  .right {
+    text-align: center;
+  }
+  .right img {
+    width: 90%;
+  }
+  .left {
+    margin-top: 20px;
+  }
+}
